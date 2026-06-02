@@ -800,7 +800,7 @@ a {
 /* ── Footer ── */
 .site-footer {
   padding: 56px 56px 64px;
-  border-top: 1px solid var(--rule);
+  /* border-top: 1px solid var(--rule); */
   background: var(--bg);
 }
 
